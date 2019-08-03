@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:background="@drawable/options_rounded_shape">
+
+    <ImageButton
+        android:id="@+id/side_mirror_on"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_car_side_mirror_green"
+        android:layout_gravity="center"
+        android:layout_margin="25dp"/>
+    <ImageButton
+        android:id="@+id/side_mirror_off"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_car_side_mirror_red"
+        android:layout_gravity="center"
+        android:layout_margin="25dp"/>
+</LinearLayout>

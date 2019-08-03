@@ -1,0 +1,4 @@
+#Sat Aug 03 12:43:22 EET 2019
+base.0=/media/samx/DCF098CAF098AC70/Projects/CarRemote/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

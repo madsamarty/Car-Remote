@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reconnect"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/controlPanel_menu_action1"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_disconnect"
+        android:icon="@drawable/ic_bluetooth_disabled_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/controlPanel_menu_action2"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_lock_status"
+        android:icon="@drawable/ic_car_key_red"
+        android:orderInCategory="100"
+        android:title="Lock All"
+        app:showAsAction="ifRoom" />
+</menu>

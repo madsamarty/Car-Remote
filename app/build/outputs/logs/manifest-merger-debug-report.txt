@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/samx/.gradle/caches/transforms-2/files-2.1/84ef362eb0f8a9fd44fbca3bbe06d21d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/17c78d2668e19e0399c040b438c41163/AndroidManifest.xml:17:1-24:12
+MERGED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/b0b47720704f2ee9881b796f52dd2568/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3aaef2f47775ecf3952957f2eb3e31fc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:17:1-30:12
+MERGED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:2:1-16:12
+MERGED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/8197e5ee8b37240bb0b5249b091589c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c415c627c7d627cee9c219d1408e5b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/831a28adabef146ac5c61b5b6914b846/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/54c9ef9ead1c7ab5c71c218f3579c8b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/49ee24c89c90e6897a6ffbc5f5db1c5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/d96c4c057e8cf902994eed95770f49ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/67ca6f914c850ca5c5eac6bed882e3fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/012657113d989712c8fe8a8b6f46ca92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/476e79710664a53c38630d109bec43dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/f56d9e2a37a98b033b82c761f91ae1ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3bcb90367bf29706ecf04c79ae273c66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/e057d5b14ba7079a40331aaefd16967a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/93508d4586c1618c198080a2198a9b56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c15629e31e8eae3a1b78310d0ad2c314/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/77d4ca5d2965d38b3e719874a57d45bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3b043f06321c3c11eddb36414a7afc7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/4f6a340acf1e74a493396d9d5750c1e0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/a15053fcbf028940daf2f5012d14c53e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/81d88a7b980328342890b3bd91e5a736/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/d691791e34fb40e2af9ae4112750db87/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/0d8c89f2724753eff06d985e831d2769/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/e91b62fb05c17b0997713c6f8c595662/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/323d398605906277adf615817d0789e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/b8811b8323c733439e2c51eae4a0e129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/0cbdf9677e2101b61ce94e532ec6a812/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/80175e76d7a71a451e481f9c13d4b510/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/28f33db608a3dc5f911d7a93449b9617/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/66132dd4685af14ae2d6481a9ee864b5/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:7:22-71
+application
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:9:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/samx/.gradle/caches/transforms-2/files-2.1/84ef362eb0f8a9fd44fbca3bbe06d21d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/samx/.gradle/caches/transforms-2/files-2.1/84ef362eb0f8a9fd44fbca3bbe06d21d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/17c78d2668e19e0399c040b438c41163/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/17c78d2668e19e0399c040b438c41163/AndroidManifest.xml:22:5-20
+MERGED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:11:5-15:19
+MERGED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:22:5-28:19
+MERGED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:11:5-14:19
+MERGED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:11:5-14:19
+MERGED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/4f6a340acf1e74a493396d9d5750c1e0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/4f6a340acf1e74a493396d9d5750c1e0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:12:9-41
+		REJECTED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:13:9-41
+		REJECTED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:13:9-41
+		REJECTED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:13:9-47
+	android:icon
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:16:9-38
+activity#com.samehness.carremote.Settings
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:17:9-78
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:17:19-66
+activity#com.samehness.carremote.Location
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:18:9-21:47
+	android:label
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:20:13-37
+	android:theme
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:19:13-60
+activity#com.samehness.carremote.ControlPanel
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:23:9-26:59
+	android:screenOrientation
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:24:13-64
+activity#com.samehness.carremote.BluetoothConnection
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:28:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/samx/.gradle/caches/transforms-2/files-2.1/84ef362eb0f8a9fd44fbca3bbe06d21d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.0-beta2] /home/samx/.gradle/caches/transforms-2/files-2.1/84ef362eb0f8a9fd44fbca3bbe06d21d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/17c78d2668e19e0399c040b438c41163/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/17c78d2668e19e0399c040b438c41163/AndroidManifest.xml:20:5-44
+MERGED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.harjot:vectormaster:1.1.3] /home/samx/.gradle/caches/transforms-2/files-2.1/b9e27e91917a5bed6ec129bff6615c73/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/b0b47720704f2ee9881b796f52dd2568/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/b0b47720704f2ee9881b796f52dd2568/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3aaef2f47775ecf3952957f2eb3e31fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3aaef2f47775ecf3952957f2eb3e31fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:20:5-44
+MERGED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:7:5-9:41
+MERGED from [co.aenterhy:toggleswitch:1.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5a0a139d53b87e7cdbc99b28a708096f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rm:rmswitch:1.2.2] /home/samx/.gradle/caches/transforms-2/files-2.1/8ea67ce1fd58a527ee91b694f84b918b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/8197e5ee8b37240bb0b5249b091589c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/8197e5ee8b37240bb0b5249b091589c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c415c627c7d627cee9c219d1408e5b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c415c627c7d627cee9c219d1408e5b1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/831a28adabef146ac5c61b5b6914b846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/831a28adabef146ac5c61b5b6914b846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/54c9ef9ead1c7ab5c71c218f3579c8b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/54c9ef9ead1c7ab5c71c218f3579c8b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/49ee24c89c90e6897a6ffbc5f5db1c5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/49ee24c89c90e6897a6ffbc5f5db1c5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/d96c4c057e8cf902994eed95770f49ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/d96c4c057e8cf902994eed95770f49ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/67ca6f914c850ca5c5eac6bed882e3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/67ca6f914c850ca5c5eac6bed882e3fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/012657113d989712c8fe8a8b6f46ca92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/012657113d989712c8fe8a8b6f46ca92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/476e79710664a53c38630d109bec43dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/476e79710664a53c38630d109bec43dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/f56d9e2a37a98b033b82c761f91ae1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/f56d9e2a37a98b033b82c761f91ae1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3bcb90367bf29706ecf04c79ae273c66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3bcb90367bf29706ecf04c79ae273c66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/e057d5b14ba7079a40331aaefd16967a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/e057d5b14ba7079a40331aaefd16967a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/93508d4586c1618c198080a2198a9b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/93508d4586c1618c198080a2198a9b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c15629e31e8eae3a1b78310d0ad2c314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/c15629e31e8eae3a1b78310d0ad2c314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/77d4ca5d2965d38b3e719874a57d45bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/77d4ca5d2965d38b3e719874a57d45bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3b043f06321c3c11eddb36414a7afc7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/3b043f06321c3c11eddb36414a7afc7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/5da9cd2c5ce2bd65095eeae0e62e5d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/4f6a340acf1e74a493396d9d5750c1e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/4f6a340acf1e74a493396d9d5750c1e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/a15053fcbf028940daf2f5012d14c53e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/a15053fcbf028940daf2f5012d14c53e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/81d88a7b980328342890b3bd91e5a736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/81d88a7b980328342890b3bd91e5a736/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/d691791e34fb40e2af9ae4112750db87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/d691791e34fb40e2af9ae4112750db87/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/0d8c89f2724753eff06d985e831d2769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/0d8c89f2724753eff06d985e831d2769/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/e91b62fb05c17b0997713c6f8c595662/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/e91b62fb05c17b0997713c6f8c595662/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/323d398605906277adf615817d0789e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/323d398605906277adf615817d0789e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/b8811b8323c733439e2c51eae4a0e129/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/b8811b8323c733439e2c51eae4a0e129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/0cbdf9677e2101b61ce94e532ec6a812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/0cbdf9677e2101b61ce94e532ec6a812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/80175e76d7a71a451e481f9c13d4b510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/80175e76d7a71a451e481f9c13d4b510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/28f33db608a3dc5f911d7a93449b9617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/28f33db608a3dc5f911d7a93449b9617/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/66132dd4685af14ae2d6481a9ee864b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/samx/.gradle/caches/transforms-2/files-2.1/66132dd4685af14ae2d6481a9ee864b5/AndroidManifest.xml:20:5-44
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		ADDED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+		INJECTED from /media/samx/DCF098CAF098AC70/Projects/CarRemote/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/samx/.gradle/caches/transforms-2/files-2.1/332bd3ad7128106e4f36cd817216e9e3/AndroidManifest.xml:24:13-83

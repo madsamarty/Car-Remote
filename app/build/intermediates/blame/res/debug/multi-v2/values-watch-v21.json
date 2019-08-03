@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/samx/DCF098CAF098AC70/Projects/CarRemote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/samx/.gradle/caches/transforms-2/files-2.1/b0b47720704f2ee9881b796f52dd2568/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

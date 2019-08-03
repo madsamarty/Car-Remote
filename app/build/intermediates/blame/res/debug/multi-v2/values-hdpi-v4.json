@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/samx/DCF098CAF098AC70/Projects/CarRemote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/samx/.gradle/caches/transforms-2/files-2.1/b0b47720704f2ee9881b796f52dd2568/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
